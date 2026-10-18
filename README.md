@@ -1,7 +1,7 @@
 # QR Code-Based Footprinting and Information Gathering for Cybersecurity
 
 ## Project Documentation
-- [Project Report (PDF)](QR_Footprinting_Project.pdf)
+- [Project (PDF)](QR_Footprinting_Project.pdf)
 - [Project Explanation (PDF)](QR_Footprinting_Explanation.pdf)
 
 ## Project Overview
